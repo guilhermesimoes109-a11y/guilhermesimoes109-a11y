@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="214" viewBox="0 0 800 214" role="img" aria-label="Every Step Count - ATEC Palmela x Fundação Galp">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16171a"/>
+      <stop offset="1" stop-color="#2a2b2f"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="212" rx="20" fill="url(#bg)" stroke="#3a3b40" stroke-width="2"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="400" y="40" font-size="12" font-weight="700" letter-spacing="2.4" fill="#a8a9b0">ATEC PALMELA × FUNDAÇÃO GALP / COMPLETE AND INSTITUTIONAL</text>
+    <text x="400" y="84" font-size="26" font-weight="700" fill="#f4f4f5">Every Step Count</text>
+    <text x="400" y="120" font-size="14" fill="#b9bac0">Every Step Count is a web platform built for ATEC Palmela, inspired by the #TodosOsPassosContam</text>
+    <text x="400" y="142" font-size="14" fill="#b9bac0">movement from Fundação Galp. Delegates sign in with an access code and submit their kilometres</text>
+    <text x="400" y="164" font-size="14" fill="#b9bac0">along with screenshots as proof, while the backend runs on Supabase with row-level security</text>
+    <text x="400" y="186" font-size="14" fill="#b9bac0">and a hardened database setup.</text>
+    <text x="774" y="40" font-size="20" text-anchor="end" fill="#a8a9b0">↗</text>
+  </g>
+</svg>

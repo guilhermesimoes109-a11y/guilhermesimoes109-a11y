@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="310" viewBox="0 0 800 310" role="img" aria-label="Guilherme Simões - Programming and Informatics Student, ATEC Portugal">
+  <style>
+    .eyebrow { fill: #57606a; }
+    .name    { fill: #1f2328; }
+    .rule    { fill: #8c959f; }
+    .role    { fill: #1f2328; }
+    .meta    { fill: #424a53; }
+    .tagline { fill: #57606a; }
+    @media (prefers-color-scheme: dark) {
+      .eyebrow { fill: #9a9ba2; }
+      .name    { fill: #f4f4f5; }
+      .rule    { fill: #6b6c73; }
+      .role    { fill: #f4f4f5; }
+      .meta    { fill: #d4d4d8; }
+      .tagline { fill: #a8a9b0; }
+    }
+  </style>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text class="eyebrow" x="400" y="62" font-size="13" letter-spacing="5">SOFTWARE DEVELOPMENT</text>
+    <text class="name" x="400" y="140" font-size="66" font-weight="700">Guilherme Simões</text>
+    <rect class="rule" x="370" y="168" width="60" height="2"/>
+    <text class="role" x="400" y="208" font-size="19" font-weight="700">Programming and Informatics Student</text>
+    <text class="meta" x="400" y="238" font-size="17">ATEC · Portugal</text>
+    <text class="tagline" x="400" y="278" font-size="14">I turn ideas into things I can actually use, from web interfaces to desktop applications.</text>
+  </g>
+</svg>

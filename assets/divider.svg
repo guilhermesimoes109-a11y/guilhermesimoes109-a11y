@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="56" viewBox="0 0 400 56" role="presentation">
+  <style>
+    .line { fill: #57606a; }
+    @media (prefers-color-scheme: dark) {
+      .line { fill: #9a9ba2; }
+    }
+  </style>
+  <rect class="line" x="0" y="26" width="400" height="4" rx="2"/>
+</svg>

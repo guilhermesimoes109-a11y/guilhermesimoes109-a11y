@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="234" viewBox="0 0 800 234" role="img" aria-label="About me">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16171a"/>
+      <stop offset="1" stop-color="#2a2b2f"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="232" rx="20" fill="url(#bg)" stroke="#3a3b40" stroke-width="2"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="400" y="56" font-size="26" font-weight="700" fill="#f4f4f5">About me</text>
+    <text x="400" y="90" font-size="14" fill="#d4d4d8">Hey, I'm Guilherme, a programming and informatics student at ATEC, Portugal.</text>
+    <text x="400" y="124" font-size="14" fill="#b9bac0">I like turning an idea into something I can actually use from web interfaces to desktop</text>
+    <text x="400" y="146" font-size="14" fill="#b9bac0">applications. I'm especially interested in Linux, application architecture, and how the</text>
+    <text x="400" y="168" font-size="14" fill="#b9bac0">pieces of a program fit together.</text>
+    <text x="400" y="202" font-size="14" fill="#b9bac0">This profile is where I share what I'm building, experimenting with, and learning along the way.</text>
+  </g>
+</svg>
