@@ -28,3 +28,13 @@
 <h2 data-importer="text" align="left">Featured Projects</h2>
 <br clear="both">
 <h4 data-importer="text" align="left">ATEC Palmela × Fundação Galp (Complete and institutional)</h4>
+<p data-importer="text" align="left"><b>Every Step Count</b> is a web platform built for ATEC Palmela in partnership with Fundação Galp. Delegates sign in with an access code and submit their kilometres along with screenshots as proof, while the backend runs on Supabase with row-level security and a hardened database setup.</p>
+<br clear="both">
+
+<h4 data-importer="text" align="left"><a href="https://github.com/guilhermesimoes109-a11y/TradingView-Finances">TradingView-Finances</a></h4>
+<p data-importer="text" align="left">A finance-focused project built around TradingView, exploring market data and trading tools.</p>
+<br clear="both">
+
+<h4 data-importer="text" align="left"><a href="https://github.com/guilhermesimoes109-a11y/ProcessamentoComputacional">ProcessamentoComputacional</a></h4>
+<p data-importer="text" align="left">A computational processing project developed as part of my studies, focused on how programs process and transform data.</p>
+<br clear="both">
