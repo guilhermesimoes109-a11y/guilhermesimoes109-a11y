@@ -27,7 +27,4 @@
 
 <h2 data-importer="text" align="left">Featured Projects</h2>
 <br clear="both">
-<div data-importer="border">
-  <img style="width: 100%;" src="https://vercel.app" />
-</div>
 <h4 data-importer="text" align="left">ATEC Palmela × Fundação Galp (Complete and institutional)</h4>
